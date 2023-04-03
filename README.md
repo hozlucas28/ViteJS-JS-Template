@@ -21,13 +21,13 @@
     Installation
 </h2>
 <p>
-    Clone the repository, install <a href="https://nodejs.org/es/" target="_blank">Node.js</a> (runtime environment), <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (code editor), and <a href="#----necessary-extensions">necessary extensions</a>. Then run command <code>npm install</code> to install all packages necessary this template. That's all.
+    Clone the repository, install <a href="https://nodejs.org/es/" target="_blank">Node.js</a> (runtime environment), <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (code editor), and the <a href="#----necessary-extensions">necessary extensions</a>. Then run command <code>npm install</code>, and <code>npm run prepare</code> to install all packages necessary for this template. That's all.
 </p>
 
 <p>
     <i>
         <strong>• Optional:</strong>
-        Delete .gitkeep files, they are just to upload an empty folder.
+        Delete .gitkeep files, they are just to upload empty folders.
     </i>
 </p>
 
@@ -101,7 +101,7 @@
             Complete index.html file with open graphs and esencial meta tags
         </li>
         <li>
-            Pre-format documents each time you make a commit by <a href="https://eslint.org/" target="_blank">Husky</a> and <a href="https://prettier.io/" target="_blank">Prettier</a>.
+            Pre-format documents each time you make a commit by <a href="https://github.com/typicode/husky" target="_blank">Husky</a> and <a href="https://prettier.io/" target="_blank">Prettier</a>.
         </li>
     </ul>
 </p>
