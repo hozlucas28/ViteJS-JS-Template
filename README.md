@@ -1,9 +1,9 @@
 <h1 align="center">
-    ViteJS Template
+    ViteJS Template [JavaScript]
 </h1>
 
 <h4 align="center">
-    Template of a <a href="https://vitejs.dev/" target="_blank">ViteJS<a> project with <a href="https://reactjs.org/" target="_blank">ReactJS<a>, <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS<a>, and <a href="https://eslint.org/" target="_blank">ESLint<a>.
+    Template of a <a href="https://vitejs.dev/" target="_blank">ViteJS<a> project with <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">JavaScript<a>, <a href="https://reactjs.org/" target="_blank">ReactJS<a>, <a href="https://tailwindcss.com/" target="_blank">Tailwind CSS<a>, and <a href="https://eslint.org/" target="_blank">ESLint<a>.
 </h4>
 
 <p align="center">
