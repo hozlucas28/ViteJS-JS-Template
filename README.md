@@ -95,13 +95,13 @@
             Live formatter by <a href="https://prettier.io/" target="_blank">Prettier</a> with a custom configuration
         </li>
         <li>
-            Live code analyzer (linter) by <a href="https://eslint.org/" target="_blank">ESLint</a> with a ReactJS configuration.
+            Live code analyzer (linter) by <a href="https://eslint.org/" target="_blank">ESLint</a> with a ReactJS configuration
         </li>
         <li>
             Complete index.html file with open graphs and esencial meta tags
         </li>
         <li>
-            Pre-format documents each time you make a commit by <a href="https://github.com/typicode/husky" target="_blank">Husky</a> and <a href="https://prettier.io/" target="_blank">Prettier</a>.
+            Pre-format documents each time you make a commit by <a href="https://github.com/typicode/husky" target="_blank">Husky</a> and <a href="https://prettier.io/" target="_blank">Prettier</a>
         </li>
     </ul>
 </p>
