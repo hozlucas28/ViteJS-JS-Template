@@ -31,8 +31,8 @@
 		"services/",
 		"utils/",
 		"tests/",
-		"static/",
 		".css",
+		"static/",
 		"@/(.*)",
 		"^[./]"
 	]
