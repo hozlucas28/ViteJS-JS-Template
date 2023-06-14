@@ -1,4 +1,4 @@
-import { container, title, subTitle } from './App.module.css'
+import { container, subTitle, title } from './App.module.css'
 
 function App() {
 	return (
