@@ -1,6 +1,6 @@
 import { container, subTitle, title } from './App.module.css'
 
-function App() {
+export default function App() {
 	return (
 		<div className={container}>
 			<h1 className={title}>ViteJS Template [JavaScript]</h1>
@@ -16,5 +16,3 @@ function App() {
 		</div>
 	)
 }
-
-export default App
