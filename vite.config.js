@@ -9,7 +9,6 @@ export default defineConfig({
 	plugins: [react(), svgr(), eslint()],
 	resolve: {
 		alias: {
-			'@': path.resolve(__dirname, './src'),
 			'@assets': path.resolve(__dirname, './src/assets'),
 			'@components': path.resolve(__dirname, './src/components'),
 			'@core': path.resolve(__dirname, './src/core'),
